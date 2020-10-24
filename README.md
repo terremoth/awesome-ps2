@@ -38,7 +38,7 @@ Apps, projects, hacks, exploits and homebrews!
 - Awesome tutorials
   - ...
   
-- Youtube Channels that have a lot of PS2 Videos Related
+- Youtube channels with PS2 related videos
   - \[PT-BR\]
     - [HardLevel](https://www.youtube.com/channel/UCFUTYcj_6fwrw207-YAghLA)
     
