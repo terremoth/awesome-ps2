@@ -7,7 +7,6 @@ Apps, projects, hacks, exploits and homebrews!
   - [wLaunchELF](https://github.com/ps2homebrew/wLaunchELF)
   - [iLaunchELF](https://github.com/Based-Skid/iLaunchELF) - Http Based ELF loader Demo For the PS2
   - [Free Mermory Card Boot](https://github.com/TnA-Plastic/FreeMcBoot)
-  - [Free HD Boot](https://github.com/CTurt/FreeDVDBoot)
   - [Free DVD Boot](https://github.com/CTurt/FreeDVDBoot) 
   - [Fortuna](https://github.com/Veritas83/PS2_FORTUNA_Launcher)
   - [OSDSYS Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) - tool that allows users of PS2 consoles with BIOS v2.30+ to launcher OSDSYS updates
