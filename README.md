@@ -9,6 +9,7 @@ Awesome PlayStation 2 Apps, projects, hacks and Homebrews
   - [Free HD Boot](https://github.com/CTurt/FreeDVDBoot)
   - [Free DVD Boot](https://github.com/CTurt/FreeDVDBoot) 
   - [Fortuna](https://github.com/Veritas83/PS2_FORTUNA_Launcher)
+  - [OSDSYS Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) - tool that allows users of PS2 consoles with BIOS v2.30+ to launcher OSDSYS updates
 
 - SDKs
   - [PS2SDK](https://github.com/ps2dev/ps2sdk) - Open PlayStation 2 Development Kit
