@@ -1,5 +1,6 @@
-# awesome-ps2
-Awesome PlayStation 2 Apps, projects, hacks and Homebrews
+# Awesome Open PlayStation 2 Projects
+
+Apps, projects, hacks, exploits and homebrews!
 
 - Loaders/Launchers
   - [OPL - Open PlayStation 2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader/)
