@@ -25,15 +25,22 @@ Awesome PlayStation 2 Apps, projects, hacks and Homebrews
 - SDK's Libraries
   - [LIB CRC32](https://github.com/Veritas83/VTSPS2-CRC32)
 
+- Programming Languages implementatons
+  - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes into native assembly code like JIT or an "ahead of time" compiler - [site explaining](http://www.mikekohn.net/micro/playstation2_java.php)
+  - [YaBasic](http://www.yabasic.de/download.html) - Yet Another BASIC language implementation to develop playing on PS2
+
 - Hardwares Mods
   - Modchips
     - ...
   - [SIO2SD](https://www.psx-place.com/threads/sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/) - SD Card adapter interface
 
+- PlayStation 2 Demo Discs
+  - ...
+
 - Awesome tutorials
   - ...
   
-- Youtube Channels that have a lot of PS2 Video Related
+- Youtube Channels that have a lot of PS2 Videos Related
   - \[PT-BR\]
     - [HardLevel](https://www.youtube.com/channel/UCFUTYcj_6fwrw207-YAghLA)
     
