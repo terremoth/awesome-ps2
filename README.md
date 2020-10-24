@@ -24,6 +24,7 @@ Apps, projects, hacks, exploits and homebrews!
 
 - SDK's Libraries
   - [LIB CRC32](https://github.com/Veritas83/VTSPS2-CRC32)
+  - [gsKit](https://github.com/ps2dev/gsKit) - Graphics Synthesizer Library for PS2SDK
 
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes into native assembly code like JIT or an "ahead of time" compiler - [site explaining](http://www.mikekohn.net/micro/playstation2_java.php)
