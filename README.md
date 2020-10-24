@@ -16,6 +16,7 @@ Awesome PlayStation 2 Apps, projects, hacks and Homebrews
 
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
+  - [DobieStation](https://github.com/PSI-Rockin/DobieStation)
 
 - Networking Tools
   - [Homebrew Downloader](https://github.com/Veritas83/VTSPS2-HBDL)
