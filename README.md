@@ -28,7 +28,7 @@ Awesome PlayStation 2 Apps, projects, hacks and Homebrews
 - Hardwares Mods
   - Modchips
     - ...
-  - SIO2SD
+  - [SIO2SD](https://www.psx-place.com/threads/sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/) - SD Card adapter interface
 
 - Awesome tutorials
   - ...
