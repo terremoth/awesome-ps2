@@ -35,9 +35,6 @@ Apps, projects, hacks, exploits and homebrews!
     - ...
   - [SIO2SD](https://www.psx-place.com/threads/sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/) - SD Card adapter interface
 
-- PlayStation 2 Demo Discs
-  - ...
-
 - Awesome tutorials
   - ...
   
