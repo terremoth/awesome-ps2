@@ -1,5 +1,8 @@
 # Awesome Open PlayStation 2 Projects
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![license](https://img.shields.io/github/license/terremoth/awesome-ps2.svg)](/LICENSE)
+
 Apps, projects, hacks, exploits and homebrews!
 
 - Loaders/Launchers
