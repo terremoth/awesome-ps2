@@ -24,10 +24,22 @@ Apps, projects, hacks, exploits and homebrews!
 
 - Networking Tools
   - [Homebrew Downloader](https://github.com/Veritas83/VTSPS2-HBDL)
+  - [HDL_Dump](https://github.com/ps2homebrew/hdl-dump) - Install games into PS2 HD through network
 
 - SDK's Libraries
   - [LIB CRC32](https://github.com/Veritas83/VTSPS2-CRC32)
   - [gsKit](https://github.com/ps2dev/gsKit) - Graphics Synthesizer Library for PS2SDK
+  - [ps2rd](https://github.com/mlafeldt/ps2rd)
+  - [lib Vorbis](https://github.com/citronalco/ps2-libvorbis) - Generalk purpose MPEG-4's AAC and TwinVQ lib
+
+- Cheating/Code breaking
+  - [CheatDevice](https://github.com/root670/CheatDevicePS2)
+
+- General tools
+  - [mymcplus](https://github.com/thestr4ng3r/mymcplus) - Memory Card manager
+  - [Cue Maker](https://github.com/tralph3/Cue-Maker) - Get CUE files to your .bins
+  - [Linux Kernel for PS2](https://github.com/frno7/linux)
+  - 
 
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
