@@ -17,6 +17,8 @@ Apps, projects, hacks, exploits and homebrews!
 - SDKs
   - [PS2SDK](https://github.com/ps2dev/ps2sdk) - Open PlayStation 2 Development Kit
   - [Prussia](https://github.com/Ravenslofty/prussia) - A PS2 Rewritten SDK made in Rust 
+  - [Enceladus](https://github.com/DanielSant0s/Enceladus) - Kit to create homebrew software for PlayStation 2 using the Lua language
+  - [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - Kit to create homebrew software for PlayStation 2 using the JavaScript language
 
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
@@ -56,4 +58,5 @@ Apps, projects, hacks, exploits and homebrews!
 - Youtube channels with PS2 related videos
   - \[PT-BR\]
     - [HardLevel](https://www.youtube.com/channel/UCFUTYcj_6fwrw207-YAghLA)
+    - [Daniel Santos](https://www.youtube.com/channel/UCIDx5TuDp-1IRTRr5l5JSdw)
     
