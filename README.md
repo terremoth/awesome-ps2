@@ -33,6 +33,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [gsKit](https://github.com/ps2dev/gsKit) - Graphics Synthesizer Library for PS2SDK
   - [ps2rd](https://github.com/mlafeldt/ps2rd)
   - [lib Vorbis](https://github.com/citronalco/ps2-libvorbis) - Generalk purpose MPEG-4's AAC and TwinVQ lib
+  - [VU Trace](https://github.com/chaoticgd/vutrace) - Tracing debugger for the PS2's second vector processing unit (VPU1)
 
 - Cheating/Code breaking
   - [CheatDevice](https://github.com/root670/CheatDevicePS2)
@@ -40,8 +41,7 @@ Apps, projects, hacks, exploits and homebrews!
 - General tools
   - [mymcplus](https://github.com/thestr4ng3r/mymcplus) - Memory Card manager
   - [Cue Maker](https://github.com/tralph3/Cue-Maker) - Get CUE files to your .bins
-  - [Linux Kernel for PS2](https://github.com/frno7/linux)
-  - 
+  - [Linux Kernel for PS2](https://github.com/frno7/linux) 
 
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
@@ -51,12 +51,11 @@ Apps, projects, hacks, exploits and homebrews!
   - Modchips
     - ...
   - [SIO2SD](https://www.psx-place.com/threads/sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/) - SD Card adapter interface
-
-- Awesome tutorials
-  - ...
   
 - Youtube channels with PS2 related videos
   - \[PT-BR\]
     - [HardLevel](https://www.youtube.com/channel/UCFUTYcj_6fwrw207-YAghLA)
     - [Daniel Santos](https://www.youtube.com/channel/UCIDx5TuDp-1IRTRr5l5JSdw)
     
+## Homebrew or Ported Open Source Games
+- [SuperTux](https://github.com/headshot2017/supertux-ps2) port from Linux to PS2
