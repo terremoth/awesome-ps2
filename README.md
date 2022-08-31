@@ -16,9 +16,10 @@ Apps, projects, hacks, exploits and homebrews!
 
 - SDKs
   - [PS2SDK](https://github.com/ps2dev/ps2sdk) - Open PlayStation 2 Development Kit
-  - [Prussia](https://github.com/Ravenslofty/prussia) - A PS2 Rewritten SDK made in Rust 
+  - [Prussia](https://github.com/Ravenslofty/prussia) - A PS2 SDK Rewritten in Rust 
   - [Enceladus](https://github.com/DanielSant0s/Enceladus) - Kit to create homebrew software for PlayStation 2 using the Lua language
   - [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - Kit to create homebrew software for PlayStation 2 using the JavaScript language
+  - [Tyra](https://github.com/h4570/tyra/) - Kit to create homebrew games for PlayStation 2 using C++ language with VU1 support
 
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
@@ -59,3 +60,4 @@ Apps, projects, hacks, exploits and homebrews!
     
 ## Homebrew or Ported Open Source Games
 - [SuperTux](https://github.com/headshot2017/supertux-ps2) port from Linux to PS2
+- [TyraCraft](https://github.com/Wellinator/tyracraft) Minecraft Clone for PS2
