@@ -52,6 +52,7 @@ Apps, projects, hacks, exploits and homebrews!
   - Modchips
     - ...
   - [SIO2SD](https://www.psx-place.com/threads/sio2sd-sd-card-adapter-and-sd-driver-for-the-ps2-sio2-interface.29210/) - SD Card adapter interface
+  - [Retro Gem](https://www.pixelfx.co/product-page/retro-gem-universal-hdmi-upscaler-kit) - Universal HDMI Upscaler Kit
   
 - Youtube channels with PS2 related videos
   - \[PT-BR\]
