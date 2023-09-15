@@ -62,4 +62,4 @@ Apps, projects, hacks, exploits and homebrews!
 ## Homebrew or Ported Open Source Games
 - [SuperTux](https://github.com/headshot2017/supertux-ps2) port from Linux to PS2
 - [TyraCraft](https://github.com/Wellinator/tyracraft) Minecraft Clone for PS2
-- ["Dungeon" test demo game](https://bitbucket.org/glampert/ps2dev-tests/src/master/) from Ghilherme Lampert
+- ["Dungeon" test demo game](https://bitbucket.org/glampert/ps2dev-tests/src/master/) from Guilherme Lampert
