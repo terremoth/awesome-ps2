@@ -14,6 +14,9 @@ Apps, projects, hacks, exploits and homebrews!
   - [Fortuna Launcher](https://github.com/Veritas83/PS2_FORTUNA_Launcher) - _(obs: this is not Fortuna Exploit)_
   - [OSDSYS Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) - tool that allows users of PS2 consoles with BIOS v2.30+ to launcher OSDSYS updates
 
+- Game Covers Download repo
+  - [https://github.com/xlenore/ps2-covers](PS2-Covers) 
+
 - SDKs
   - [PS2SDK](https://github.com/ps2dev/ps2sdk) - Open PlayStation 2 Development Kit
   - [Prussia](https://github.com/Ravenslofty/prussia) - A PS2 SDK Rewritten in Rust 
