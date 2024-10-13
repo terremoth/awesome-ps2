@@ -23,6 +23,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [Enceladus](https://github.com/DanielSant0s/Enceladus) - Kit to create homebrew software for PlayStation 2 using the Lua language
   - [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - Kit to create homebrew software for PlayStation 2 using the JavaScript language
   - [Tyra](https://github.com/h4570/tyra/) - Kit to create homebrew games for PlayStation 2 using C++ language with VU1 support
+  - [ZigStation2](https://github.com/FalsePattern/ZigStation2) - Compile your PS2 Homebrews with the [Zig](https://github.com/ziglang/zig) Programming Language
 
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
