@@ -28,6 +28,7 @@ Apps, projects, hacks, exploits and homebrews!
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
   - [DobieStation](https://github.com/PSI-Rockin/DobieStation)
+  - [Neutrino](https://github.com/rickgaiser/neutrino) - PS2 device emulator
 
 - Networking Tools
   - [Homebrew Downloader](https://github.com/Veritas83/VTSPS2-HBDL)
@@ -46,7 +47,8 @@ Apps, projects, hacks, exploits and homebrews!
 - General tools
   - [mymcplus](https://github.com/thestr4ng3r/mymcplus) - Memory Card manager
   - [Cue Maker](https://github.com/tralph3/Cue-Maker) - Get CUE files to your .bins
-  - [Linux Kernel for PS2](https://github.com/frno7/linux) 
+  - [Linux Kernel for PS2](https://github.com/frno7/linux)
+  - [PS2_PNacher](https://github.com/Snaggly/PS2_Pnacher) - Apply patches into PS2 ISOs
 
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
