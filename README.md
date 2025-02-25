@@ -13,6 +13,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [Free DVD Boot](https://github.com/CTurt/FreeDVDBoot) 
   - [Fortuna Launcher](https://github.com/Veritas83/PS2_FORTUNA_Launcher) - _(obs: this is not Fortuna Exploit)_
   - [OSDSYS Launcher](https://github.com/HowlingWolfHWC/OSDSYS-Launcher) - tool that allows users of PS2 consoles with BIOS v2.30+ to launcher OSDSYS updates
+  - [FreeMcBoot 1.8](https://github.com/TnA-Plastic/FreeMcBoot)
 
 - Game Covers Download repo
   - [https://github.com/xlenore/ps2-covers](PS2-Covers) 
@@ -40,6 +41,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [ps2rd](https://github.com/mlafeldt/ps2rd)
   - [lib Vorbis](https://github.com/citronalco/ps2-libvorbis) - Generalk purpose MPEG-4's AAC and TwinVQ lib
   - [VU Trace](https://github.com/chaoticgd/vutrace) - Tracing debugger for the PS2's second vector processing unit (VPU1)
+  - [PS2 Basic Bootloader](https://github.com/israpps/PlayStation2-Basic-BootLoader)
 
 - Cheating/Code breaking
   - [CheatDevice](https://github.com/root670/CheatDevicePS2)
@@ -49,6 +51,8 @@ Apps, projects, hacks, exploits and homebrews!
   - [Cue Maker](https://github.com/tralph3/Cue-Maker) - Get CUE files to your .bins
   - [Linux Kernel for PS2](https://github.com/frno7/linux)
   - [PS2_PNacher](https://github.com/Snaggly/PS2_Pnacher) - Apply patches into PS2 ISOs
+  - [FreeMcBoot Installer](https://github.com/israpps/FreeMcBoot-Installer) - Custom installers for Several versions of FreeMcBoot
+  - [HDL Batch Installer](https://github.com/israpps/HDL-Batch-installer) - A GUI for HDL Dump
 
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
