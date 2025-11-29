@@ -34,6 +34,7 @@ Apps, projects, hacks, exploits and homebrews!
 - Networking Tools
   - [Homebrew Downloader](https://github.com/Veritas83/VTSPS2-HBDL)
   - [HDL_Dump](https://github.com/ps2homebrew/hdl-dump) - Install games into PS2 HD through network
+  - [OpenWRT UDPBD](https://github.com/GorGylka/UDPBD-A5-V11) - OpenWRT UDPBD for A5-V11 3G/4G Mini Router 
 
 - SDK's Libraries
   - [LIB CRC32](https://github.com/Veritas83/VTSPS2-CRC32)
@@ -53,6 +54,16 @@ Apps, projects, hacks, exploits and homebrews!
   - [PS2_PNacher](https://github.com/Snaggly/PS2_Pnacher) - Apply patches into PS2 ISOs
   - [FreeMcBoot Installer](https://github.com/israpps/FreeMcBoot-Installer) - Custom installers for Several versions of FreeMcBoot
   - [HDL Batch Installer](https://github.com/israpps/HDL-Batch-installer) - A GUI for HDL Dump
+  - [OSDMenu](https://github.com/pcm720/OSDMenu) - Patches for OSDSYS and HDD OSD (Browser 2.0) based on Free McBoot 1.8.
+  - [sd2psXtd Firmware](https://github.com/sd2psXtd/firmware) - extended firmware for the popular Multipurpose MemoryCard Emulator sd2psx
+  - [Proverb](https://github.com/PS2Homebrew-arcade/proverb) - alternative bootloader for Arcade PS2s (COH-H model series and their direct derivative units)
+  - [BDMAssault](https://github.com/israpps/BDMAssault) - homebrew project for PS2 that aims to bring EXFAT USB support
+  - [MMCEMAN](https://github.com/ps2-mmce/mmceman) - IOP module designed for communication with MMCE devices, such as the SD2PSX, MemCard PRO2, PSxMemCard, etc
+  - [SC2MAKER](https://github.com/israpps/SC2MAKER/) - convert PS2 memory cards into System246 SoulCalibur2 Conquest Card
+  - [OSD-XMB](https://github.com/HiroTex/OSD-XMB) - User Interface for the PS2 resembling the PS3/PSP XMB Style
+  - [DKWDRV](https://github.com/DKWDRV/DKWDRV) - Replacement for the original PS1DRV of Playstation 2 consoles
+  - [MechaPwn](https://github.com/MechaResearch/MechaPwn) - A tool that rewrites the PS2’s MechaCon to unlock regions and disc restrictions.
+  - [Romman](https://github.com/israpps/romman) - CLI tool for managing PlayStation 2 ROM files
 
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
