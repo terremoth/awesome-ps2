@@ -25,6 +25,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - Kit to create homebrew software for PlayStation 2 using the JavaScript language
   - [Tyra](https://github.com/h4570/tyra/) - Kit to create homebrew games for PlayStation 2 using C++ language with VU1 support
   - [ZigStation2](https://github.com/FalsePattern/ZigStation2) - Compile your PS2 Homebrews with the [Zig](https://github.com/ziglang/zig) Programming Language
+  - [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Tool to statically recompile PS2 ELF bins into C++ code that can be compiled for any modern platform
 
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
