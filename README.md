@@ -65,7 +65,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [DKWDRV](https://github.com/DKWDRV/DKWDRV) - Replacement for the original PS1DRV of Playstation 2 consoles
   - [MechaPwn](https://github.com/MechaResearch/MechaPwn) - A tool that rewrites the PS2’s MechaCon to unlock regions and disc restrictions.
   - [Romman](https://github.com/israpps/romman) - CLI tool for managing PlayStation 2 ROM files
-
+- [PS2 TIM2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert images to/from PS2 TIM2 textures, with CLUT, swizzle, and mipmap support.
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
   - [YaBasic](http://www.yabasic.de/download.html) - Yet Another BASIC language implementation to develop playing on PS2
