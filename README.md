@@ -49,6 +49,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [CheatDevice](https://github.com/root670/CheatDevicePS2)
 
 - General tools
+  - [xeRAbora](https://github.com/hacan359/xerabora) - RetroAchievements on PS2!
   - [mymcplus](https://github.com/thestr4ng3r/mymcplus) - Memory Card manager
   - [Cue Maker](https://github.com/tralph3/Cue-Maker) - Get CUE files to your .bins
   - [Linux Kernel for PS2](https://github.com/frno7/linux)
