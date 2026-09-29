@@ -45,6 +45,10 @@ Apps, projects, hacks, exploits and homebrews!
   - [VU Trace](https://github.com/chaoticgd/vutrace) - Tracing debugger for the PS2's second vector processing unit (VPU1)
   - [PS2 Basic Bootloader](https://github.com/israpps/PlayStation2-Basic-BootLoader)
 
+- PC Development Tools
+  - [Rebax](https://github.com/PS2HomeDeveloper/Rebax) - 2D/3D game engine and editor with a graphical interface for making PS2 games and apps; exports to ISO or raw ELF
+  - [PS2 TIM2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert images to/from PS2 TIM2 textures, with CLUT, swizzle and mipmap support; also inspects, verifies and diffs .tm2 files
+
 - Cheating/Code breaking
   - [CheatDevice](https://github.com/root670/CheatDevicePS2)
 
@@ -66,7 +70,6 @@ Apps, projects, hacks, exploits and homebrews!
   - [DKWDRV](https://github.com/DKWDRV/DKWDRV) - Replacement for the original PS1DRV of Playstation 2 consoles
   - [MechaPwn](https://github.com/MechaResearch/MechaPwn) - A tool that rewrites the PS2’s MechaCon to unlock regions and disc restrictions.
   - [Romman](https://github.com/israpps/romman) - CLI tool for managing PlayStation 2 ROM files
-- [PS2 TIM2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert images to/from PS2 TIM2 textures, with CLUT, swizzle, and mipmap support.
 - Programming Languages implementatons
   - [Java Grinder](https://github.com/mikeakohn/playstation2_demo) - Translates .class bytecodes to native assembly like JIT compiler - [explanation](http://www.mikekohn.net/micro/playstation2_java.php)
   - [YaBasic](http://www.yabasic.de/download.html) - Yet Another BASIC language implementation to develop playing on PS2
