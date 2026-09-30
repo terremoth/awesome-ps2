@@ -26,6 +26,7 @@ Apps, projects, hacks, exploits and homebrews!
   - [Tyra](https://github.com/h4570/tyra/) - Kit to create homebrew games for PlayStation 2 using C++ language with VU1 support
   - [ZigStation2](https://github.com/FalsePattern/ZigStation2) - Compile your PS2 Homebrews with the [Zig](https://github.com/ziglang/zig) Programming Language
   - [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Tool to statically recompile PS2 ELF bins into C++ code that can be compiled for any modern platform
+  - [PS2DEV](https://github.com/ps2dev/ps2dev) - Docker image with a complete, ready-to-use PS2 development toolchain
 
 - Emulators
   - [PCSX2](https://github.com/PCSX2/pcsx2)
@@ -47,7 +48,7 @@ Apps, projects, hacks, exploits and homebrews!
 
 - PC Development Tools
   - [Rebax](https://github.com/PS2HomeDeveloper/Rebax) - 2D/3D game engine and editor with a graphical interface for making PS2 games and apps; exports to ISO or raw ELF
-- [PS2 TIM2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert images to/from PS2 TIM2 textures, with CLUT, swizzle and mipmap support; also inspects, verifies and diffs .tm2 files (see also [ps1-tim-tool](https://github.com/PS2HomeDeveloper/ps1-tim-tool) for the older PS1 TIM format)
+  - [PS2 TIM2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert images to/from PS2 TIM2 textures, with CLUT, swizzle and mipmap support; also inspects, verifies and diffs .tm2 files
 
 - Cheating/Code breaking
   - [CheatDevice](https://github.com/root670/CheatDevicePS2)
@@ -87,5 +88,6 @@ Apps, projects, hacks, exploits and homebrews!
     
 ## Homebrew or Ported Open Source Games
 - [SuperTux](https://github.com/headshot2017/supertux-ps2) port from Linux to PS2
+- [OptiCraft Heritage Edition](https://github.com/OptiJuegos/OptiCraftHeritageEdition) - Port of Minecraft: Pocket Edition 0.6 to the PS2, running natively on real hardware
 - [TyraCraft](https://github.com/Wellinator/tyracraft) Minecraft Clone for PS2
 - ["Dungeon" test demo game](https://bitbucket.org/glampert/ps2dev-tests/src/master/) from Guilherme Lampert
