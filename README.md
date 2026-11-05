@@ -87,6 +87,7 @@ Apps, projects, hacks, exploits and homebrews!
     - [Daniel Santos](https://www.youtube.com/channel/UCIDx5TuDp-1IRTRr5l5JSdw)
     
 ## Homebrew or Ported Open Source Games
+- [Granny PS2](https://github.com/PS2HomeDeveloper/Granny-PS2) - The famous horror game Granny, in a PlayStation 2 version.
 - [SuperTux](https://github.com/headshot2017/supertux-ps2) port from Linux to PS2
 - [OptiCraft Heritage Edition](https://github.com/OptiJuegos/OptiCraftHeritageEdition) - Port of Minecraft: Pocket Edition 0.6 to the PS2, running natively on real hardware
 - [TyraCraft](https://github.com/Wellinator/tyracraft) Minecraft Clone for PS2
