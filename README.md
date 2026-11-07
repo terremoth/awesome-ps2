@@ -48,6 +48,8 @@ Apps, projects, hacks, exploits and homebrews!
 
 - PC Development Tools
   - [Rebax](https://github.com/PS2HomeDeveloper/Rebax) - 2D/3D game engine and editor with a graphical interface for making PS2 games and apps; exports to ISO or raw ELF
+  - [PS2 DevTools](https://github.com/PS2HomeDeveloper/PS2-DevTools) - A collection of tools and utilities for PlayStation 2 development, asset conversion, inspection, resource management, and more.
+  - [PS2 Model Tool](https://github.com/PS2HomeDeveloper/ps2-model-tool) - Cross-platform command-line tool for converting 3D models into compact PlayStation 2 runtime resources.
   - [PS2 TIM2 Tool](https://github.com/PS2HomeDeveloper/ps2-tim2-tool) - Convert images to/from PS2 TIM2 textures, with CLUT, swizzle and mipmap support; also inspects, verifies and diffs .tm2 files
 
 - Cheating/Code breaking
